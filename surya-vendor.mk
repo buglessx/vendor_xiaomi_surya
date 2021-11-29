@@ -817,6 +817,7 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
+    gpu_profiling_vulkan_layer \
     PowerOffAlarm \
     QtiTelephonyService \
     dpmserviceapp \
